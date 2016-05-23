@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:c="http://base.google.com/cns/1.0">
+  <channel>
+    <title>google_export</title>
+    <link><![CDATA[http://localhost:59154/wp-content/uploads/cart_product_feeds/Google/google_export.xml]]></link>
+    <description>google_export</description>
+	<item>
+        <g:id><![CDATA[10]]></g:id>
+        <title><![CDATA[ÐŸñð¾ð´ñƒðºñ‚ 2]]></title>
+        <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eros quam, tincidunt sed tristique nec, accumsan a justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc id mattis enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent pharetra risus non nisi pharetra tincidunt. Pellentesque hendrerit at tellus at varius. Nam in lobortis lectus. Suspendisse aliquet ex et metus rutrum venenatis. Maecenas eget orci metus. Donec eget lectus a odio sollicitudin tincidunt non eget orci. Praesent luctus, felis at vehicula porta, orci libero tempus odio, sit amet cursus dui nunc ac felis. Nulla facilisi.
+]]></description>
+        <link><![CDATA[http://localhost:59154/product/pr-2/]]></link>
+        <g:product_type><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:product_type>
+        <g:google_product_category><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:google_product_category>
+        <g:image_link><![CDATA[http://localhost:59154/wp-content/uploads/2016/05/placeholder.jpg]]></g:image_link>
+        <g:condition>New</g:condition>
+        <g:availability>in stock</g:availability>
+        <g:price>800.00 RUB</g:price>
+        <g:mpn><![CDATA[116]]></g:mpn>
+        <g:identifier_exists><![CDATA[FALSE]]></g:identifier_exists>
+	</item>
+	<item>
+        <g:id><![CDATA[11]]></g:id>
+        <title><![CDATA[ÐŸñð¾ð´ñƒðºñ‚ 3]]></title>
+        <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eros quam, tincidunt sed tristique nec, accumsan a justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc id mattis enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent pharetra risus non nisi pharetra tincidunt. Pellentesque hendrerit at tellus at varius. Nam in lobortis lectus. Suspendisse aliquet ex et metus rutrum venenatis. Maecenas eget orci metus. Donec eget lectus a odio sollicitudin tincidunt non eget orci. Praesent luctus, felis at vehicula porta, orci libero tempus odio, sit amet cursus dui nunc ac felis. Nulla facilisi.
+]]></description>
+        <link><![CDATA[http://localhost:59154/product/pr-3/]]></link>
+        <g:product_type><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:product_type>
+        <g:google_product_category><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:google_product_category>
+        <g:image_link><![CDATA[http://localhost:59154/wp-content/uploads/2016/05/placeholder.jpg]]></g:image_link>
+        <g:condition>New</g:condition>
+        <g:availability>in stock</g:availability>
+        <g:price>350.00 RUB</g:price>
+        <g:mpn><![CDATA[117]]></g:mpn>
+        <g:identifier_exists><![CDATA[FALSE]]></g:identifier_exists>
+	</item>
+	<item>
+        <g:id><![CDATA[12]]></g:id>
+        <title><![CDATA[ÐŸñð¾ð´ñƒðºñ‚ 4]]></title>
+        <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eros quam, tincidunt sed tristique nec, accumsan a justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc id mattis enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent pharetra risus non nisi pharetra tincidunt. Pellentesque hendrerit at tellus at varius. Nam in lobortis lectus. Suspendisse aliquet ex et metus rutrum venenatis. Maecenas eget orci metus. Donec eget lectus a odio sollicitudin tincidunt non eget orci. Praesent luctus, felis at vehicula porta, orci libero tempus odio, sit amet cursus dui nunc ac felis. Nulla facilisi.
+]]></description>
+        <link><![CDATA[http://localhost:59154/product/pr-4/]]></link>
+        <g:product_type><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:product_type>
+        <g:google_product_category><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:google_product_category>
+        <g:image_link><![CDATA[http://localhost:59154/wp-content/uploads/2016/05/placeholder.jpg]]></g:image_link>
+        <g:condition>New</g:condition>
+        <g:availability>in stock</g:availability>
+        <g:price>1150.00 RUB</g:price>
+        <g:mpn><![CDATA[118]]></g:mpn>
+        <g:identifier_exists><![CDATA[FALSE]]></g:identifier_exists>
+	</item>
+	<item>
+        <g:id><![CDATA[13]]></g:id>
+        <title><![CDATA[ÐŸñð¾ð´ñƒðºñ‚ 5]]></title>
+        <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eros quam, tincidunt sed tristique nec, accumsan a justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc id mattis enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent pharetra risus non nisi pharetra tincidunt. Pellentesque hendrerit at tellus at varius. Nam in lobortis lectus. Suspendisse aliquet ex et metus rutrum venenatis. Maecenas eget orci metus. Donec eget lectus a odio sollicitudin tincidunt non eget orci. Praesent luctus, felis at vehicula porta, orci libero tempus odio, sit amet cursus dui nunc ac felis. Nulla facilisi.
+]]></description>
+        <link><![CDATA[http://localhost:59154/product/pr-5/]]></link>
+        <g:product_type><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:product_type>
+        <g:google_product_category><![CDATA[Animals & Pet Supplies > Pet Supplies > Cat & Dog Flaps]]></g:google_product_category>
+        <g:image_link><![CDATA[http://localhost:59154/wp-content/uploads/2016/05/placeholder.jpg]]></g:image_link>
+        <g:condition>New</g:condition>
+        <g:availability>in stock</g:availability>
+        <g:price>50.00 RUB</g:price>
+        <g:mpn><![CDATA[119]]></g:mpn>
+        <g:identifier_exists><![CDATA[FALSE]]></g:identifier_exists>
+	</item>
+  </channel>
+</rss>

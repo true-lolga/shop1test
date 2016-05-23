@@ -1,0 +1,55 @@
+/*
+ Theme Name:   Azera Shop Child
+ 
+ Description: Azera Shop Child Theme
+ Author:       Olga Kuvshinova
+ Author URI:   http://lolga.org
+ Template:     azera-shop
+ Version:      1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:black, orange, gray, white, light, responsive-layout, one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, front-page-post-form, full-width-template, rtl-language-support, threaded-comments, translation-ready
+ Text Domain:  azera-shop
+*/
+
+
+/*Header*/
+
+.navbar-inverse {
+  background-color: white;
+}
+
+
+#site-title a {
+  color: rgba(255,162,0,1.00);
+  font-size: 30px;
+  margin-bottom: 8%;
+}
+
+#site-title a:hover, a:focus {
+  color: rgba(255,162,0,1.00);
+  text-decoration: underline;
+}
+
+#site-description {
+  color: #313131;
+  font-size: 20px;
+}
+
+/*404*/
+
+img.404 {
+  margin: 10%;
+}
+
+#primary {
+  width: 100%;
+}
+
+#main {
+  text-align: center;
+}
+
+form.woocommerce-product-search {
+  margin-top: 3%;
+}
